@@ -1,0 +1,19 @@
+# 0-installation-script
+
+# Step 1: Verified Node.js installation
+node -v
+# Confirmed Node.js version 16+ is installed
+
+# Step 2: Navigated to the project directory
+cd alx-intermediate-frontend
+
+# Step 3: Created the SASS/SCSS directory
+mkdir 0x03-sass_scss
+cd 0x03-sass_scss
+
+# Step 4: Installed SASS version 3.7.4 using npm
+npm install sass@3.7.4
+
+# Step 5: Verified SASS installation
+npx sass --version
+# Output confirmed SASS is installed and ready to use
